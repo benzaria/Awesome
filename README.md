@@ -145,6 +145,7 @@
 - [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
 - [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
 - [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
+- [RunBash](https://github.com/benzaria/RunBash): Run Bash scripts and Linux binaries directly from your Windows system. It integrates seamlessly with both Windows Explorer, Command Prompt, and PowerShell. [![Open-Source Software][oss icon]](https://github.com/benzaria/RunBash) ![Freeware][freeware icon]
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
